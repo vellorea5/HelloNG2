@@ -1,0 +1,17 @@
+
+.mycontainer {
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    align-content: center;
+    border: 1px solid red;
+}
+
+.mydiv {
+    padding: 10px;
+    background-color: aqua;
+}
+
+.myp {
+    color:blueviolet;
+}
